@@ -34,6 +34,8 @@ public class HelloJSPWorld	 extends HttpServlet {
 	                );      
 	        }
 	  System.out.println("HI.....Nidhi :)");
+	  System.out.println("HI.....Soyal :)");
 	}
+
 
 
