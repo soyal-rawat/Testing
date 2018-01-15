@@ -33,6 +33,7 @@ public class HelloJSPWorld	 extends HttpServlet {
 	                  "</html>" 
 	                );      
 	        }
+	  System.out.println("HI.....Nidhi :)");
 	}
 
 
